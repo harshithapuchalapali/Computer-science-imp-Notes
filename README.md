@@ -1,1 +1,1 @@
-# Computer-science-imp-Notes
+# Computer science imp Notes
